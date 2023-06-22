@@ -1,5 +1,5 @@
 # AnaliseSegurançaHidrografica
-Analise de arquivo CSV em python
+Analise de arquivo CSV em python (Jupyter Notebook)
 <div align ="center">
 ANÁLISE DE DADOS EM PYTHON: SEGURANÇA HÍDRICA NO
 SUDESTE BRASILEIRO
